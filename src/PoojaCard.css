@@ -1,0 +1,37 @@
+.pooja-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pooja-card h2 {
+    margin-top: 0;
+  }
+  
+  .pooja-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .pooja-card p {
+    margin-bottom: 10px;
+  }
+  
+  .book-now-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .book-now-button:hover {
+    background-color: #0056b3;
+  }
+  
